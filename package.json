@@ -1,0 +1,20 @@
+{
+  "name": "fundraiseup-looker-studio-connector",
+  "version": "1.0.0",
+  "description": "Looker Studio connector for FundraiseUp",
+  "scripts": {
+    "start": "clasp push --watch --force",
+    "login": "clasp login",
+    "push": "clasp push",
+    "pull": "clasp pull",
+    "deploy": "clasp deploy",
+    "open": "clasp open",
+    "version": "clasp version",
+    "versions": "clasp versions",
+    "watch": "clasp push --watch --force"
+  },
+  "devDependencies": {
+    "@google/clasp": "^3.2.0",
+    "@types/google-apps-script": "^1.0.83"
+  }
+}

@@ -1,0 +1,19 @@
+.github
+
+# Node modules
+node_modules/
+package-lock.json
+
+# Clasp credentials and config (contains scriptId, projectId)
+.clasprc.json
+.clasp.json
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

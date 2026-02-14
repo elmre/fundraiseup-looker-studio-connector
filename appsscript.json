@@ -5,10 +5,10 @@
   "runtimeVersion": "V8",
   "dataStudio": {
     "name": "Looker Studio FundraiseUp Connector",
-    "company": "",
+    "company": "Undefined",
     "logoUrl": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/c0bea34d-f78b-490e-87aa-bcce74bedb66.png",
     "addonUrl": "https://github.com/eLmre/fundraiseup-looker-studio-connector",
-    "supportUrl": "",
+    "supportUrl": "https://github.com/eLmre/fundraiseup-looker-studio-connector/issues",
     "description": "Connector to fetch donations data from FundraiseUp"
   }
 }
